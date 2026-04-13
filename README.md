@@ -36,7 +36,7 @@ Compilado originalmente por Wyatt
 
 Design de Garret
 
-Última atualização conhecida por Mutilador (15/09/2025)
+Última atualização conhecida por Mbnunes (13/04/2026)
 
 🎯 Objetivo
 
